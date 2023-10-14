@@ -9,7 +9,7 @@ wrong_guess=[]
 #Word=Words_Bank[x]
 
 Word=random.choice(Words_Bank)
-print(Word,len(Word))
+#print(Word,len(Word))
 
 while User_Mistake<6:
     for i in range(len(Word)):

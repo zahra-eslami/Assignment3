@@ -10,4 +10,4 @@ try:
     for i in range(array_size):
         print(snake_array[i],end="")
 except:
-    print("You must inter an integer number") 
+    print("You must enter an integer number") 
